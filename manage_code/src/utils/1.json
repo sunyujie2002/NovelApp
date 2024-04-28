@@ -1,0 +1,279 @@
+[{
+    "backMenu": [{
+        "child": [{
+            "appFrontIcon": "cuIcon-medal",
+            "buttons": ["新增", "查看", "修改", "删除", "回复"],
+            "menu": "留言板",
+            "menuJump": "列表",
+            "tableName": "messages"
+        }],
+        "fontClass": "icon-common41",
+        "menu": "留言板管理",
+        "unicode": "&#xeede;"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-list",
+            "buttons": ["新增", "查看", "修改", "删除"],
+            "menu": "小说分类",
+            "menuJump": "列表",
+            "tableName": "xiaoshuofenlei"
+        }],
+        "fontClass": "icon-common17",
+        "menu": "小说分类管理",
+        "unicode": "&#xedfe;"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-shop",
+            "buttons": ["新增", "查看", "修改", "删除"],
+            "menu": "轮播图",
+            "menuJump": "列表",
+            "tableName": "config"
+        }],
+        "fontClass": "icon-common45",
+        "menu": "轮播图管理",
+        "unicode": "&#xef3b;"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-medal",
+            "buttons": ["新增", "查看", "修改", "删除"],
+            "menu": "读者",
+            "menuJump": "列表",
+            "tableName": "duzhe"
+        }],
+        "fontClass": "icon-user4",
+        "menu": "读者管理",
+        "unicode": "&#xef9a;"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-pay",
+            "buttons": ["新增", "查看", "修改", "删除", "查看评论"],
+            "menu": "作家",
+            "menuJump": "列表",
+            "tableName": "zuojia"
+        }],
+        "fontClass": "icon-user6",
+        "menu": "作家管理",
+        "unicode": "&#xef9c;"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-news",
+            "buttons": ["查看", "修改", "删除", "小说分类统计", "查看评论"],
+            "menu": "小说信息",
+            "menuJump": "列表",
+            "tableName": "xiaoshuoxinxi"
+        }],
+        "fontClass": "icon-common1",
+        "menu": "小说作品管理",
+        "unicode": "&#xeda3;"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-taxi",
+            "buttons": ["新增", "查看", "修改", "删除"],
+            "menu": "小说资讯",
+            "menuJump": "列表",
+            "tableName": "news"
+        }],
+        "fontClass": "icon-common42",
+        "menu": "小说资讯管理",
+        "unicode": "&#xef24;"
+    }],
+    "frontMenu": [{
+        "child": [{
+            "appFrontIcon": "cuIcon-medal",
+            "buttons": ["查看","修改"],
+            "menu": "留言板",
+            "menuJump": "列表",
+            "tableName": "messages"
+        }],
+        "menu": "留言板管理"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-wenzi",
+            "buttons": ["查看", "查看评论"],
+            "menu": "作家",
+            "menuJump": "列表",
+            "tableName": "zuojia"
+        }],
+        "menu": "作家管理"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-form",
+            "buttons": ["查看"],
+            "menu": "小说资讯",
+            "menuJump": "列表",
+            "tableName": "news"
+        }],
+        "menu": "小说资讯管理"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-qrcode",
+            "buttons": ["查看", "查看评论", "章节管理"],
+            "menu": "小说信息",
+            "menuJump": "列表",
+            "tableName": "xiaoshuoxinxi"
+        }],
+        "menu": "小说作品管理"
+    }],
+    "hasBackLogin": "是",
+    "hasBackRegister": "否",
+    "hasFrontLogin": "否",
+    "hasFrontRegister": "否",
+    "roleName": "管理员",
+    "tableName": "users"
+}, {
+    "backMenu": [{
+        "child": [{
+            "appFrontIcon": "cuIcon-vipcard",
+            "buttons": ["查看", "删除"],
+            "menu": "我的收藏",
+            "menuJump": "1",
+            "tableName": "storeup"
+        }],
+        "fontClass": "icon-common20",
+        "menu": "我的收藏管理",
+        "unicode": "&#xee02;"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-vipcard",
+            "buttons": ["查看", "删除"],
+            "menu": "我的关注",
+            "menuJump": "41",
+            "tableName": "storeup"
+        }],
+        "fontClass": "icon-common30",
+        "menu": "我的关注管理",
+        "unicode": "&#xee30;"
+    }],
+    "frontMenu": [{
+        "child": [{
+            "appFrontIcon": "cuIcon-medal",
+            "buttons": ["查看","修改"],
+            "menu": "留言板",
+            "menuJump": "列表",
+            "tableName": "messages"
+        }],
+        "menu": "留言板管理"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-wenzi",
+            "buttons": ["查看", "查看评论"],
+            "menu": "作家",
+            "menuJump": "列表",
+            "tableName": "zuojia"
+        }],
+        "menu": "作家管理"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-form",
+            "buttons": ["查看"],
+            "menu": "小说资讯",
+            "menuJump": "列表",
+            "tableName": "news"
+        }],
+        "menu": "小说资讯管理"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-qrcode",
+            "buttons": ["查看", "查看评论", "章节管理"],
+            "menu": "小说信息",
+            "menuJump": "列表",
+            "tableName": "xiaoshuoxinxi"
+        }],
+        "menu": "小说作品管理"
+    }],
+    "hasBackLogin": "否",
+    "hasBackRegister": "否",
+    "hasFrontLogin": "是",
+    "hasFrontRegister": "是",
+    "roleName": "读者",
+    "tableName": "duzhe"
+}, {
+    "backMenu": [{
+        "child": [{
+            "appFrontIcon": "cuIcon-pay",
+            "buttons": ["查看", "查看评论"],
+            "menu": "作家",
+            "menuJump": "列表",
+            "tableName": "zuojia"
+        }],
+        "fontClass": "icon-user6",
+        "menu": "作家管理",
+        "unicode": "&#xef9c;"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-medal",
+            "buttons": ["查看","修改"],
+            "menu": "留言板",
+            "menuJump": "列表",
+            "tableName": "messages"
+        }],
+        "fontClass": "icon-common41",
+        "menu": "留言板管理",
+        "unicode": "&#xeede;"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-taxi",
+            "buttons": ["查看"],
+            "menu": "小说资讯",
+            "menuJump": "列表",
+            "tableName": "news"
+        }],
+        "fontClass": "icon-common42",
+        "menu": "小说资讯管理",
+        "unicode": "&#xef24;"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-news",
+            "buttons": ["新增", "查看", "修改", "删除", "查看评论", "章节管理"],
+            "menu": "小说信息",
+            "menuJump": "列表",
+            "tableName": "xiaoshuoxinxi"
+        }],
+        "fontClass": "icon-common1",
+        "menu": "小说作品管理",
+        "unicode": "&#xeda3;"
+    }],
+    "frontMenu": [{
+        "child": [{
+            "appFrontIcon": "cuIcon-medal",
+            "buttons": ["查看","修改"],
+            "menu": "留言板",
+            "menuJump": "列表",
+            "tableName": "messages"
+        }],
+        "menu": "留言板管理"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-wenzi",
+            "buttons": ["查看", "查看评论"],
+            "menu": "作家",
+            "menuJump": "列表",
+            "tableName": "zuojia"
+        }],
+        "menu": "作家管理"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-form",
+            "buttons": ["查看"],
+            "menu": "小说资讯",
+            "menuJump": "列表",
+            "tableName": "news"
+        }],
+        "menu": "小说资讯管理"
+    }, {
+        "child": [{
+            "appFrontIcon": "cuIcon-qrcode",
+            "buttons": ["查看", "查看评论", "章节管理"],
+            "menu": "小说信息",
+            "menuJump": "列表",
+            "tableName": "xiaoshuoxinxi"
+        }],
+        "menu": "小说作品管理"
+    }],
+    "hasBackLogin": "是",
+    "hasBackRegister": "是",
+    "hasFrontLogin": "否",
+    "hasFrontRegister": "否",
+    "roleName": "作家",
+    "tableName": "zuojia"
+}]
